@@ -12,4 +12,4 @@ Well, this is just an automated script to do these steps so I don't have to do t
 - Search the show
 - Click at the end of the show
 
-This may look stupid, but losing watched history confuses me if I have watched any particular episode. Hence, this script.
+This may look stupid, but losing watched history confuses me if I have watched any particular episode. Hence, this script. Also I wanted this to be a good Python learning experience :)
